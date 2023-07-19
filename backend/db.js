@@ -1,6 +1,5 @@
 const mongoose = require('mongoose')
 const dotenv =require('dotenv')
-const mongoURI="mongodb+srv://kaushik:kaushik@cluster0.xd3zfom.mongodb.net/?retryWrites=true&w=majority"
 
 
 dotenv.config();
